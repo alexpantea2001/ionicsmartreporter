@@ -1,0 +1,7 @@
+{
+  "name": "IonicSmartReporter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
